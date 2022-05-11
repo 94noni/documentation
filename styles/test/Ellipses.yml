@@ -1,0 +1,11 @@
+extends: existence
+message: "Use ellipses (…) instead of '...'."
+nonword: true
+level: error
+action:
+  name: edit
+  params:
+    - replace
+    - '...'
+tokens:
+  - '…'
