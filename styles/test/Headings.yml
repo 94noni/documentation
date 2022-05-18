@@ -12,7 +12,7 @@ exceptions:
   - Code
   - Cosmos
   - Docker
-  - Emmet
+  - SDK
   - gRPC
   - I
   - Kubernetes
@@ -27,3 +27,12 @@ exceptions:
   - Visual
   - VS
   - Windows
+  - Meilisearch
+  - AWS
+  - DigitalOcean
+  - GCP
+  - Qovery
+  - GCP
+  - GitHub
+  - JSON
+  - API
